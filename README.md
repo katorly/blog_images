@@ -1,4 +1,7 @@
 # Gallery001
-Katorly's image gallery #001.
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/workspaces)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/katorly/Gallery001)
+## CDN
+```
+https://cdn.jsdelivr.net/gh/katorly/Gallery001/file
+```
