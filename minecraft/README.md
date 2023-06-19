@@ -1,0 +1,2 @@
+## Legal Notice
+All content under this [folder](/minecraft/wiki) is from [Minecraft Wiki](https://minecraft.fandom.com/wiki/Minecraft_Wiki) under the license of [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0), and [Mojang Studios](https://www.mojang.com) under their [terms](https://www.minecraft.net/zh-hans/terms#terms-brand_guidelines).
