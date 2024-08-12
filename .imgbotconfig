@@ -1,5 +1,6 @@
 {
     "ignoredFiles": [
-        "logo/*"
+        "logo/*",
+        "lab/email/icons/*"
     ]
 }
