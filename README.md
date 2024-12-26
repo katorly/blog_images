@@ -1,6 +1,6 @@
-# Gallery001
+# Image Repository for Katorly Blog
 
 ## CDN
 ```markdown
-![](https://img.katorly.com/)
+![](https://blog-img.katorly.com/)
 ```
