@@ -1,0 +1,170 @@
+<svg width="82ch" height="55em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+    <style>
+        @font-face {
+            font-family: ExternalRef;
+            src: url(https://res.check.place/fonts/xyBarMono.woff);
+        }
+        * {
+            font-family: ExternalRef, SimHei, Consolas, DejaVu Sans Mono, SF Mono, monospace;
+            font-size: 14px;
+        }
+        tspan, text {
+            font-variant-ligatures: none;
+            dominant-baseline: central;
+            white-space: pre;
+            fill: #bbbbbb;
+        }
+        .bg {
+            stroke-width: "0.5px";
+        }
+        .bold {
+            font-weight: bold;
+        }
+        .italic {
+            font-style: italic;
+        }
+        .underline {
+            text-decoration: underline;
+        }
+        <!-- Background ANSI colors -->
+        .ba2 { stroke: #00bb00; fill: #00bb00; }
+        .ba3 { stroke: #aa9900; fill: #aa9900; }
+        .ba4 { stroke: #0000bb; fill: #0000bb; }
+        <!-- Foreground ANSI colors -->
+        .fa1 { fill: #bb0000; }
+        .fa2 { fill: #00bb00; }
+        .fa3 { fill: #aa9900; }
+        .fa6 { fill: #00bbbb; }
+        .fa7 { fill: #bbbbbb; }
+    </style>
+    <rect width="100%" height="100%" x="0" y="0" style="fill: #000000"/>
+<g class="bg">
+<rect x="31ch" y="13em" width="11ch" height="1em" class="ba2"/>
+<rect x="18ch" y="15em" width="8ch" height="1em" class="ba3"/>
+<rect x="15ch" y="19em" width="1ch" height="1em" class="ba2"/>
+<rect x="23ch" y="19em" width="1ch" height="1em" class="ba3"/>
+<rect x="1ch" y="21em" width="6ch" height="1em" class="ba4"/>
+<rect x="8ch" y="21em" width="7ch" height="1em" class="ba4"/>
+<rect x="16ch" y="21em" width="6ch" height="1em" class="ba4"/>
+<rect x="23ch" y="21em" width="6ch" height="1em" class="ba4"/>
+<rect x="30ch" y="21em" width="6ch" height="1em" class="ba4"/>
+<rect x="37ch" y="21em" width="6ch" height="1em" class="ba4"/>
+<rect x="44ch" y="21em" width="6ch" height="1em" class="ba4"/>
+<rect x="51ch" y="21em" width="6ch" height="1em" class="ba4"/>
+<rect x="58ch" y="21em" width="6ch" height="1em" class="ba4"/>
+<rect x="65ch" y="21em" width="6ch" height="1em" class="ba4"/>
+<rect x="72ch" y="21em" width="7ch" height="1em" class="ba4"/>
+<rect x="1ch" y="22em" width="6ch" height="1em" class="ba2"/>
+<rect x="8ch" y="22em" width="7ch" height="1em" class="ba2"/>
+<rect x="16ch" y="22em" width="6ch" height="1em" class="ba2"/>
+<rect x="23ch" y="22em" width="6ch" height="1em" class="ba2"/>
+<rect x="30ch" y="22em" width="6ch" height="1em" class="ba2"/>
+<rect x="37ch" y="22em" width="6ch" height="1em" class="ba2"/>
+<rect x="44ch" y="22em" width="6ch" height="1em" class="ba2"/>
+<rect x="51ch" y="22em" width="6ch" height="1em" class="ba2"/>
+<rect x="58ch" y="22em" width="6ch" height="1em" class="ba2"/>
+<rect x="65ch" y="22em" width="6ch" height="1em" class="ba2"/>
+<rect x="72ch" y="22em" width="7ch" height="1em" class="ba2"/>
+<rect x="1ch" y="23em" width="7ch" height="1em" class="ba4"/>
+<rect x="9ch" y="23em" width="6ch" height="1em" class="ba4"/>
+<rect x="16ch" y="23em" width="7ch" height="1em" class="ba4"/>
+<rect x="24ch" y="23em" width="7ch" height="1em" class="ba4"/>
+<rect x="32ch" y="23em" width="7ch" height="1em" class="ba4"/>
+<rect x="1ch" y="24em" width="7ch" height="1em" class="ba2"/>
+<rect x="9ch" y="24em" width="6ch" height="1em" class="ba2"/>
+<rect x="16ch" y="24em" width="7ch" height="1em" class="ba2"/>
+<rect x="24ch" y="24em" width="7ch" height="1em" class="ba3"/>
+<rect x="32ch" y="24em" width="7ch" height="1em" class="ba3"/>
+<rect x="16ch" y="37em" width="7ch" height="1em" class="ba4"/>
+<rect x="25ch" y="37em" width="3ch" height="1em" class="ba2"/>
+<rect x="41ch" y="37em" width="7ch" height="1em" class="ba4"/>
+<rect x="50ch" y="37em" width="4ch" height="1em" class="ba2"/>
+<rect x="69ch" y="37em" width="4ch" height="1em" class="ba4"/>
+<rect x="75ch" y="37em" width="3ch" height="1em" class="ba2"/>
+<rect x="16ch" y="38em" width="7ch" height="1em" class="ba4"/>
+<rect x="25ch" y="38em" width="3ch" height="1em" class="ba2"/>
+<rect x="41ch" y="38em" width="7ch" height="1em" class="ba4"/>
+<rect x="50ch" y="38em" width="4ch" height="1em" class="ba2"/>
+<rect x="69ch" y="38em" width="4ch" height="1em" class="ba4"/>
+<rect x="75ch" y="38em" width="3ch" height="1em" class="ba2"/>
+<rect x="16ch" y="39em" width="7ch" height="1em" class="ba4"/>
+<rect x="25ch" y="39em" width="3ch" height="1em" class="ba2"/>
+<rect x="41ch" y="39em" width="7ch" height="1em" class="ba4"/>
+<rect x="50ch" y="39em" width="4ch" height="1em" class="ba2"/>
+<rect x="69ch" y="39em" width="4ch" height="1em" class="ba4"/>
+<rect x="75ch" y="39em" width="3ch" height="1em" class="ba2"/>
+<rect x="16ch" y="40em" width="7ch" height="1em" class="ba4"/>
+<rect x="25ch" y="40em" width="3ch" height="1em" class="ba2"/>
+<rect x="41ch" y="40em" width="7ch" height="1em" class="ba4"/>
+<rect x="50ch" y="40em" width="4ch" height="1em" class="ba2"/>
+<rect x="69ch" y="40em" width="4ch" height="1em" class="ba4"/>
+<rect x="75ch" y="40em" width="3ch" height="1em" class="ba2"/>
+<rect x="16ch" y="41em" width="7ch" height="1em" class="ba4"/>
+<rect x="25ch" y="41em" width="3ch" height="1em" class="ba2"/>
+<rect x="41ch" y="41em" width="7ch" height="1em" class="ba4"/>
+<rect x="50ch" y="41em" width="4ch" height="1em" class="ba2"/>
+<rect x="67ch" y="41em" width="6ch" height="1em" class="ba4"/>
+<rect x="75ch" y="41em" width="3ch" height="1em" class="ba2"/>
+<rect x="16ch" y="42em" width="7ch" height="1em" class="ba4"/>
+<rect x="25ch" y="42em" width="3ch" height="1em" class="ba2"/>
+<rect x="41ch" y="42em" width="7ch" height="1em" class="ba4"/>
+<rect x="50ch" y="42em" width="4ch" height="1em" class="ba2"/>
+<rect x="67ch" y="42em" width="6ch" height="1em" class="ba4"/>
+<rect x="75ch" y="42em" width="3ch" height="1em" class="ba2"/>
+</g>
+<text x="0ch" y="0.5em"><tspan>********************************************************************************</tspan></text>
+<text x="0ch" y="1.5em"><tspan>                          </tspan><tspan class="bold">网络质量体检报告：</tspan><tspan class="bold fa6">91.208.*.*</tspan></text>
+<text x="0ch" y="2.5em"><tspan>                       </tspan><tspan class="underline">https://github.com/xykt/NetQuality</tspan></text>
+<text x="0ch" y="3.5em"><tspan>                    bash &lt;(curl -sL https://Check.Place) -N</tspan></text>
+<text x="0ch" y="4.5em"><tspan>            报告时间：2026-02-08 00:18:49 CST  脚本版本：v2026-01-25</tspan></text>
+<text x="0ch" y="5.5em"><tspan>********************************************************************************</tspan></text>
+<text x="0ch" y="6.5em"><tspan>一、BGP信息（</tspan><tspan class="italic">BGP.TOOLS &amp; HE.NET</tspan><tspan>）</tspan></text>
+<text x="0ch" y="7.5em"><tspan></tspan><tspan class="fa6">注册信息：          </tspan><tspan class="fa2">RIPE, AS212027 Daniel Jackson, Prefix/24</tspan></text>
+<text x="0ch" y="8.5em"><tspan></tspan><tspan class="fa6">注册/修改日期：     </tspan><tspan class="fa2">2021-02-22 / 2024-01-07</tspan></text>
+<text x="0ch" y="9.5em"><tspan></tspan><tspan class="fa6">地区：              </tspan><tspan class="fa2">[GB]United Kingdom of Great Britain and Northern Ireland, </tspan></text>
+<text x="0ch" y="10.5em"><tspan class="fa2">                    Northern Europe, Europe</tspan></text>
+<text x="0ch" y="11.5em"><tspan></tspan><tspan class="fa6">地址：              </tspan><tspan class="fa2">Dummy address for ORG-DJJ1-RIPE</tspan></text>
+<text x="0ch" y="12.5em"><tspan></tspan><tspan class="fa6">地理数据供给：      </tspan><tspan class="fa2">https://as212027.net/geofeed.csv</tspan></text>
+<text x="0ch" y="13.5em"><tspan></tspan><tspan class="fa6">活跃邻居：          </tspan><tspan class="fa2">Prefix/24 </tspan><tspan class="bold fa7"> 114 / 256 </tspan></text>
+<text x="0ch" y="14.5em"><tspan>二、本地策略</tspan></text>
+<text x="0ch" y="15.5em"><tspan></tspan><tspan class="fa6">NAT类型：        </tspan><tspan class="bold fa7"> 全锥形 </tspan></text>
+<text x="0ch" y="16.5em"><tspan></tspan><tspan class="fa6">映射行为：</tspan><tspan class="fa2">独立映射  </tspan><tspan class="fa6">过滤行为：</tspan><tspan class="fa2">端点独立过滤 </tspan><tspan class="fa6">端口行为：</tspan><tspan class="fa2">端口保留  </tspan><tspan class="fa6">环回：</tspan><tspan class="fa1">不支持</tspan></text>
+<text x="0ch" y="17.5em"><tspan></tspan><tspan class="fa6">TCP拥塞控制算法：</tspan><tspan class="fa2">cubic        </tspan><tspan class="fa6">TCP接收缓冲区（rmem）：</tspan><tspan class="fa2">4096 131072 6291456</tspan></text>
+<text x="0ch" y="18.5em"><tspan></tspan><tspan class="fa6">队列调度算法：   </tspan><tspan class="fa2">fq_codel     </tspan><tspan class="fa6">TCP发送缓冲区（wmem）：</tspan><tspan class="fa2">4096 16384 4194304</tspan></text>
+<text x="0ch" y="19.5em"><tspan>三、接入信息（</tspan><tspan class="bold fa7">*</tspan><tspan class="italic">=Tier1 </tspan><tspan class="bold fa7">*</tspan><tspan class="italic">=非Tier1 </tspan><tspan class="underline">*</tspan><tspan class="italic">=上游</tspan><tspan>）</tspan></text>
+<text x="0ch" y="20.5em"><tspan></tspan><tspan class="fa6">互联网交换点接入数：</tspan><tspan class="fa2">12        </tspan><tspan class="fa6">上游数量：</tspan><tspan class="fa2">8         </tspan><tspan class="fa6">对等互联数量：</tspan><tspan class="fa2">148</tspan></text>
+<text x="0ch" y="21.5em"><tspan></tspan><tspan class="bold fa7">AS174 </tspan><tspan> </tspan><tspan class="bold fa7">AS1299 </tspan><tspan> </tspan><tspan class="bold fa7">AS2914</tspan><tspan> </tspan><tspan class="bold fa7">AS3257</tspan><tspan> </tspan><tspan class="bold fa7">AS3320</tspan><tspan> </tspan><tspan class="bold fa7">AS3356</tspan><tspan> </tspan><tspan class="bold fa7">AS3491</tspan><tspan> </tspan><tspan class="bold fa7">AS5511</tspan><tspan> </tspan><tspan class="bold fa7">AS6453</tspan><tspan> </tspan><tspan class="bold fa7">AS6461</tspan><tspan> </tspan><tspan class="bold fa7">AS6762 </tspan></text>
+<text x="0ch" y="22.5em"><tspan></tspan><tspan class="bold fa7">Cogent</tspan><tspan> </tspan><tspan class="bold underline fa7">Arelion</tspan><tspan> </tspan><tspan class="bold fa7">  NTT </tspan><tspan> </tspan><tspan class="bold underline fa7">  GTT </tspan><tspan> </tspan><tspan class="bold fa7"> DTAG </tspan><tspan> </tspan><tspan class="bold fa7"> Lumen</tspan><tspan> </tspan><tspan class="bold underline fa7"> PCCW </tspan><tspan> </tspan><tspan class="bold fa7">Orange</tspan><tspan> </tspan><tspan class="bold fa7"> TATA </tspan><tspan> </tspan><tspan class="bold fa7"> Zayo </tspan><tspan> </tspan><tspan class="bold fa7">Sparkle</tspan></text>
+<text x="0ch" y="23.5em"><tspan></tspan><tspan class="bold fa7">AS6830 </tspan><tspan> </tspan><tspan class="bold fa7">AS7018</tspan><tspan> </tspan><tspan class="bold fa7">AS12956</tspan><tspan> </tspan><tspan class="bold fa7">AS42689</tspan><tspan> </tspan><tspan class="bold fa7">AS42831</tspan></text>
+<text x="0ch" y="24.5em"><tspan></tspan><tspan class="bold fa7">Liberty</tspan><tspan> </tspan><tspan class="bold fa7"> AT&amp;T </tspan><tspan> </tspan><tspan class="bold fa7">Telxius</tspan><tspan> </tspan><tspan class="bold underline fa7"> Glide </tspan><tspan> </tspan><tspan class="bold underline fa7"> UK DS </tspan></text>
+<text x="0ch" y="25.5em"><tspan>四、三网TCP大包延迟（</tspan><tspan class="italic">依次为电信|联通|移动 Step=80ms</tspan><tspan>） </tspan><tspan class="fa6">京</tspan><tspan class="fa2">⣤⣤</tspan><tspan class="fa3">⣤⣤</tspan><tspan class="fa2">⣤</tspan><tspan class="bold fa2">147</tspan><tspan class="fa3">⣶⣶⣶</tspan><tspan class="fa1">⣾</tspan><tspan class="fa3">⣶</tspan><tspan class="bold fa3">198</tspan><tspan class="fa3">⣶⣶⣶</tspan><tspan class="fa1">⣾</tspan><tspan class="fa3">⣶</tspan><tspan class="bold fa3">178</tspan></text>
+<text x="0ch" y="26.5em"><tspan></tspan><tspan class="fa6">津</tspan><tspan class="fa3">⣤⣤⣤⣤</tspan><tspan class="fa1">⡄</tspan><tspan class="bold fa1">152</tspan><tspan class="fa3">⣶⣶⣶⣶⣶</tspan><tspan class="bold fa3">199</tspan><tspan class="fa1">⣿⣿⣿⣿⡇</tspan><tspan class="bold fa1">252</tspan><tspan> </tspan><tspan class="fa6">冀</tspan><tspan class="fa1">⣷</tspan><tspan class="fa3">⣶⣶⣶⣶</tspan><tspan class="bold fa3">203</tspan><tspan class="fa3">⣶⣶⣶⣶⣶</tspan><tspan class="bold fa3">224</tspan><tspan class="fa1">⣿⣿⣿⣿⣿</tspan><tspan class="bold fa1">269</tspan><tspan> </tspan><tspan class="fa6">晋</tspan><tspan class="fa1">⠀⢸⢸⠀⠀</tspan><tspan class="bold fa1">460</tspan><tspan class="fa1">⡆⠀⠀⠀⠀</tspan><tspan class="bold fa1">205</tspan><tspan class="fa1">⡇⠀⠀⠀⠀</tspan><tspan class="bold fa1">240</tspan></text>
+<text x="0ch" y="27.5em"><tspan></tspan><tspan class="fa6">蒙</tspan><tspan class="fa3">⣶⣶⣦</tspan><tspan class="fa1">⢸</tspan><tspan class="fa3">⣶</tspan><tspan class="bold fa1">249</tspan><tspan class="fa3">⣶⣶⣶</tspan><tspan class="fa1">⣾</tspan><tspan class="fa3">⣶</tspan><tspan class="bold fa3">221</tspan><tspan class="fa3">⣶⣶</tspan><tspan class="fa1">⣾⣿⣷</tspan><tspan class="bold fa1">244</tspan><tspan> </tspan><tspan class="fa6">辽</tspan><tspan class="fa1">⢰⢸</tspan><tspan class="fa3">⣦</tspan><tspan class="fa1">⣷⣷</tspan><tspan class="bold fa1">216</tspan><tspan class="fa3">⣶</tspan><tspan class="fa1">⣷</tspan><tspan class="fa3">⣶</tspan><tspan class="fa1">⣷</tspan><tspan class="fa3">⣶</tspan><tspan class="bold fa3">222</tspan><tspan class="fa1">⡆⣾⣷⣿</tspan><tspan class="fa3">⣶</tspan><tspan class="bold fa1">238</tspan><tspan> </tspan><tspan class="fa6">吉</tspan><tspan class="fa3">⣶⣶</tspan><tspan class="fa1">⢰</tspan><tspan class="fa3">⣶</tspan><tspan class="fa1">⡆</tspan><tspan class="bold fa1">181</tspan><tspan class="fa1">⣷</tspan><tspan class="fa3">⣶</tspan><tspan class="fa1">⣷⣾⣾</tspan><tspan class="bold fa3">227</tspan><tspan class="fa1">⣾</tspan><tspan class="fa3">⣶⣶</tspan><tspan class="fa1">⣾⣾</tspan><tspan class="bold fa3">237</tspan></text>
+<text x="0ch" y="28.5em"><tspan></tspan><tspan class="fa6">黑</tspan><tspan class="fa1">⣾</tspan><tspan class="fa3">⣶⣶⣶</tspan><tspan class="fa1">⡇</tspan><tspan class="bold fa1">212</tspan><tspan class="fa1">⣿⣷⣿⣿⣿</tspan><tspan class="bold fa1">265</tspan><tspan class="fa3">⣶⣶⣶⣶⣶</tspan><tspan class="bold fa3">178</tspan><tspan> </tspan><tspan class="fa6">沪</tspan><tspan class="fa1">⢰⣷</tspan><tspan class="fa3">⣶⣶⣶</tspan><tspan class="bold fa1">203</tspan><tspan class="fa3">⣶⣶</tspan><tspan class="fa1">⣾</tspan><tspan class="fa3">⣶⣶</tspan><tspan class="bold fa3">211</tspan><tspan class="fa1">⡆</tspan><tspan class="fa3">⣶</tspan><tspan class="fa1">⣼</tspan><tspan class="fa3">⣴⣶</tspan><tspan class="bold fa1">200</tspan><tspan> </tspan><tspan class="fa6">苏</tspan><tspan class="fa3">⣶⣶⣶⣶⣶</tspan><tspan class="bold fa3">207</tspan><tspan class="fa1">⣿⣿⣿⣿⣿</tspan><tspan class="bold fa1">251</tspan><tspan class="fa1">⢸</tspan><tspan class="fa3">⣶⣶</tspan><tspan class="fa1">⢰</tspan><tspan class="fa3">⣶</tspan><tspan class="bold fa1">220</tspan></text>
+<text x="0ch" y="29.5em"><tspan></tspan><tspan class="fa6">浙</tspan><tspan class="fa1">⡆</tspan><tspan class="fa3">⣶⣶⣶⣶</tspan><tspan class="bold fa1">221</tspan><tspan class="fa3">⣶⣶⣶⣶⣶</tspan><tspan class="bold fa3">210</tspan><tspan class="fa3">⣤⣤⣴⣤⣤</tspan><tspan class="bold fa3">158</tspan><tspan> </tspan><tspan class="fa6">皖</tspan><tspan class="fa1">⢰⠀</tspan><tspan class="fa3">⣶⣶</tspan><tspan class="fa1">⣿</tspan><tspan class="bold fa1">226</tspan><tspan class="fa1">⣾⣾</tspan><tspan class="fa3">⣶⣶</tspan><tspan class="fa1">⣷</tspan><tspan class="bold fa1">247</tspan><tspan class="fa3">⣶⣶</tspan><tspan class="fa1">⣾</tspan><tspan class="fa3">⣶</tspan><tspan class="fa1">⣷</tspan><tspan class="bold fa3">229</tspan><tspan> </tspan><tspan class="fa6">闽</tspan><tspan class="fa1">⢸</tspan><tspan class="fa3">⣶</tspan><tspan class="fa1">⣾⡆⣾</tspan><tspan class="bold fa1">228</tspan><tspan class="fa1">⣷⣾</tspan><tspan class="fa3">⣶⣶</tspan><tspan class="fa1">⣷</tspan><tspan class="bold fa3">220</tspan><tspan class="fa3">⣶⣶⣶⣶⣶</tspan><tspan class="bold fa3">215</tspan></text>
+<text x="0ch" y="30.5em"><tspan></tspan><tspan class="fa6">赣</tspan><tspan class="fa1">⢸⡇⡇⣿⣿</tspan><tspan class="bold fa1">280</tspan><tspan class="fa3">⣶⣶</tspan><tspan class="fa1">⣾</tspan><tspan class="fa3">⣶⣶</tspan><tspan class="bold fa3">225</tspan><tspan class="fa1">⣿⣿⣿⣿⣿</tspan><tspan class="bold fa1">294</tspan><tspan> </tspan><tspan class="fa6">鲁</tspan><tspan class="fa1">⣷</tspan><tspan class="fa3">⣶⣶⣶⣶</tspan><tspan class="bold fa3">205</tspan><tspan class="fa3">⣶⣶</tspan><tspan class="fa1">⣾</tspan><tspan class="fa3">⣶</tspan><tspan class="fa1">⣷</tspan><tspan class="bold fa3">239</tspan><tspan class="fa1">⢸⠀⡇⡇⣿</tspan><tspan class="bold fa1">288</tspan><tspan> </tspan><tspan class="fa6">豫</tspan><tspan class="fa3">⣶⣶⣶⣶⣶</tspan><tspan class="bold fa3">203</tspan><tspan class="fa3">⣶⣶⣶⣶⣶</tspan><tspan class="bold fa3">202</tspan><tspan class="fa3">⣶⣶⣶</tspan><tspan class="fa1">⡆</tspan><tspan class="fa3">⣶</tspan><tspan class="bold fa1">215</tspan></text>
+<text x="0ch" y="31.5em"><tspan></tspan><tspan class="fa6">鄂</tspan><tspan class="fa1">⠀</tspan><tspan class="fa3">⣶</tspan><tspan class="fa1">⡇⣿⣿</tspan><tspan class="bold fa1">229</tspan><tspan class="fa3">⣶</tspan><tspan class="fa1">⣿</tspan><tspan class="fa3">⣶⣶⣶</tspan><tspan class="bold fa1">286</tspan><tspan class="fa1">⣿⠀⣿⣿⣿</tspan><tspan class="bold fa1">493</tspan><tspan> </tspan><tspan class="fa6">湘</tspan><tspan class="fa1">⡆⢰</tspan><tspan class="fa3">⣶⣶</tspan><tspan class="fa1">⡆</tspan><tspan class="bold fa1">228</tspan><tspan class="fa3">⣶⣶⣶⣶⣶</tspan><tspan class="bold fa3">172</tspan><tspan class="fa3">⣶⣶</tspan><tspan class="fa1">⡆</tspan><tspan class="fa3">⣶</tspan><tspan class="fa1">⢰</tspan><tspan class="bold fa1">206</tspan><tspan> </tspan><tspan class="fa6">粤</tspan><tspan class="fa3">⣶</tspan><tspan class="fa1">⣷</tspan><tspan class="fa3">⣶⣶⣶</tspan><tspan class="bold fa3">220</tspan><tspan class="fa3">⣶⣶⣶⣶⣶</tspan><tspan class="bold fa3">193</tspan><tspan class="fa3">⣶⣶⣶⣶⣶</tspan><tspan class="bold fa3">213</tspan></text>
+<text x="0ch" y="32.5em"><tspan></tspan><tspan class="fa6">桂</tspan><tspan class="fa1">⢰⢸</tspan><tspan class="fa3">⣶</tspan><tspan class="fa1">⣷⣷</tspan><tspan class="bold fa1">233</tspan><tspan class="fa1">⣾⣷⣾⣷⣷</tspan><tspan class="bold fa1">246</tspan><tspan class="fa1">⢰</tspan><tspan class="fa3">⣶⣶⣶⣶</tspan><tspan class="bold fa1">205</tspan><tspan> </tspan><tspan class="fa6">琼</tspan><tspan class="fa3">⣶</tspan><tspan class="fa1">⢰</tspan><tspan class="fa3">⣶⣶⣶</tspan><tspan class="bold fa1">218</tspan><tspan class="fa3">⣶⣶⣶⣶⣶</tspan><tspan class="bold fa3">213</tspan><tspan class="fa1">⡆⡆⡆</tspan><tspan class="fa3">⣶⣶</tspan><tspan class="bold fa1">206</tspan><tspan> </tspan><tspan class="fa6">渝</tspan><tspan class="fa1">⢸⣿⣿⣿⣿</tspan><tspan class="bold fa1">312</tspan><tspan class="fa1">⡇⣿⣿⣿⣿</tspan><tspan class="bold fa1">485</tspan><tspan class="fa1">⠀⠀⠀⠀⠀</tspan><tspan class="bold fa1">0  </tspan></text>
+<text x="0ch" y="33.5em"><tspan></tspan><tspan class="fa6">川</tspan><tspan class="fa1">⣾</tspan><tspan class="fa3">⣶</tspan><tspan class="fa1">⣾⢸⣷</tspan><tspan class="bold fa1">239</tspan><tspan class="fa3">⣶</tspan><tspan class="fa1">⢰⣷</tspan><tspan class="fa3">⣶</tspan><tspan class="fa1">⣷</tspan><tspan class="bold fa1">221</tspan><tspan class="fa1">⣿⣿⣿⣿⣿</tspan><tspan class="bold fa1">297</tspan><tspan> </tspan><tspan class="fa6">贵</tspan><tspan class="fa3">⣶⣶⣶⣶⣶</tspan><tspan class="bold fa3">230</tspan><tspan class="fa3">⣶</tspan><tspan class="fa1">⣷⣷⣷</tspan><tspan class="fa3">⣶</tspan><tspan class="bold fa3">237</tspan><tspan class="fa1">⡆</tspan><tspan class="fa3">⣶⣶⣶⣶</tspan><tspan class="bold fa1">222</tspan><tspan> </tspan><tspan class="fa6">云</tspan><tspan class="fa1">⢰</tspan><tspan class="fa3">⣶⣶⣶⣶</tspan><tspan class="bold fa1">215</tspan><tspan class="fa3">⣶⣶⣶⣶⣶</tspan><tspan class="bold fa3">198</tspan><tspan class="fa1">⣿⣿⣿⣿⣿</tspan><tspan class="bold fa1">277</tspan></text>
+<text x="0ch" y="34.5em"><tspan></tspan><tspan class="fa6">藏</tspan><tspan class="fa3">⣶⣶⣶⣶⣶</tspan><tspan class="bold fa3">185</tspan><tspan class="fa1">⣷⣷⣷⣿⣾</tspan><tspan class="bold fa1">241</tspan><tspan class="fa1">⣿⣿⣿⣿⣿</tspan><tspan class="bold fa1">264</tspan><tspan> </tspan><tspan class="fa6">陕</tspan><tspan class="fa3">⣦⣶⣶⣶⣴</tspan><tspan class="bold fa3">197</tspan><tspan class="fa1">⣷⣷⣷⣾⣾</tspan><tspan class="bold fa3">232</tspan><tspan class="fa3">⣶⣶⣶</tspan><tspan class="fa1">⣾</tspan><tspan class="fa3">⣶</tspan><tspan class="bold fa3">224</tspan><tspan> </tspan><tspan class="fa6">甘</tspan><tspan class="fa3">⣶⣶⣶⣶</tspan><tspan class="fa1">⡆</tspan><tspan class="bold fa1">201</tspan><tspan class="fa1">⣷⣾</tspan><tspan class="fa3">⣶</tspan><tspan class="fa1">⣿⣷</tspan><tspan class="bold fa3">239</tspan><tspan class="fa3">⣶</tspan><tspan class="fa1">⠀⣷⣿⣿</tspan><tspan class="bold fa1">243</tspan></text>
+<text x="0ch" y="35.5em"><tspan></tspan><tspan class="fa6">青</tspan><tspan class="fa3">⣶⣶⣶</tspan><tspan class="fa1">⣾</tspan><tspan class="fa3">⣶</tspan><tspan class="bold fa3">234</tspan><tspan class="fa3">⣶⣶⣶⣶⣶</tspan><tspan class="bold fa3">213</tspan><tspan class="fa1">⣿⣿⣿⣿⣷</tspan><tspan class="bold fa1">246</tspan><tspan> </tspan><tspan class="fa6">宁</tspan><tspan class="fa1">⣾</tspan><tspan class="fa3">⣶</tspan><tspan class="fa1">⣷⣾⣾</tspan><tspan class="bold fa3">220</tspan><tspan class="fa1">⣿⣿⣷⣿⣿</tspan><tspan class="bold fa1">258</tspan><tspan class="fa1">⣿⣿⢸⣿⣿</tspan><tspan class="bold fa1">246</tspan><tspan> </tspan><tspan class="fa6">新</tspan><tspan class="fa1">⣿⣾⣷⡇⣿</tspan><tspan class="bold fa1">244</tspan><tspan class="fa1">⣿⣿⣿⣿⣿</tspan><tspan class="bold fa1">266</tspan><tspan class="fa1">⣿⣿⣿⣿⣿</tspan><tspan class="bold fa1">264</tspan></text>
+<text x="0ch" y="36.5em"><tspan>五、三网回程路由（</tspan><tspan class="italic">线路可能随网络负载动态变化</tspan><tspan>）</tspan></text>
+<text x="0ch" y="37.5em"><tspan></tspan><tspan class="fa6">北京TCP：</tspan><tspan class="fa2">电信 </tspan><tspan> </tspan><tspan class="bold underline fa7">Arelion</tspan><tspan class="fa2">-&gt;</tspan><tspan class="bold underline fa7">163</tspan><tspan>    || </tspan><tspan class="fa2">联通</tspan><tspan>  </tspan><tspan class="bold underline fa7">Arelion</tspan><tspan class="fa2">-&gt;</tspan><tspan class="bold underline fa7">4837</tspan><tspan>   || </tspan><tspan class="fa2">移动</tspan><tspan>     </tspan><tspan class="bold underline fa7">PCCW</tspan><tspan class="fa2">-&gt;</tspan><tspan class="bold underline fa7">CMI</tspan></text>
+<text x="0ch" y="38.5em"><tspan></tspan><tspan class="fa6">北京UDP：</tspan><tspan class="fa2">电信 </tspan><tspan> </tspan><tspan class="bold underline fa7">Arelion</tspan><tspan class="fa2">-&gt;</tspan><tspan class="bold underline fa7">163</tspan><tspan>    || </tspan><tspan class="fa2">联通</tspan><tspan>  </tspan><tspan class="bold underline fa7">Arelion</tspan><tspan class="fa2">-&gt;</tspan><tspan class="bold underline fa7">4837</tspan><tspan>   || </tspan><tspan class="fa2">移动</tspan><tspan>     </tspan><tspan class="bold underline fa7">PCCW</tspan><tspan class="fa2">-&gt;</tspan><tspan class="bold underline fa7">CMI</tspan></text>
+<text x="0ch" y="39.5em"><tspan></tspan><tspan class="fa6">上海TCP：</tspan><tspan class="fa2">电信 </tspan><tspan> </tspan><tspan class="bold underline fa7">Arelion</tspan><tspan class="fa2">-&gt;</tspan><tspan class="bold underline fa7">163</tspan><tspan>    || </tspan><tspan class="fa2">联通</tspan><tspan>  </tspan><tspan class="bold underline fa7">Arelion</tspan><tspan class="fa2">-&gt;</tspan><tspan class="bold underline fa7">4837</tspan><tspan>   || </tspan><tspan class="fa2">移动</tspan><tspan>     </tspan><tspan class="bold underline fa7">Zayo</tspan><tspan class="fa2">-&gt;</tspan><tspan class="bold underline fa7">CMI</tspan></text>
+<text x="0ch" y="40.5em"><tspan></tspan><tspan class="fa6">上海UDP：</tspan><tspan class="fa2">电信 </tspan><tspan> </tspan><tspan class="bold underline fa7">Arelion</tspan><tspan class="fa2">-&gt;</tspan><tspan class="bold underline fa7">163</tspan><tspan>    || </tspan><tspan class="fa2">联通</tspan><tspan>  </tspan><tspan class="bold underline fa7">Arelion</tspan><tspan class="fa2">-&gt;</tspan><tspan class="bold underline fa7">4837</tspan><tspan>   || </tspan><tspan class="fa2">移动</tspan><tspan>     </tspan><tspan class="bold underline fa7">Zayo</tspan><tspan class="fa2">-&gt;</tspan><tspan class="bold underline fa7">CMI</tspan></text>
+<text x="0ch" y="41.5em"><tspan></tspan><tspan class="fa6">广州TCP：</tspan><tspan class="fa2">电信 </tspan><tspan> </tspan><tspan class="bold underline fa7">Arelion</tspan><tspan class="fa2">-&gt;</tspan><tspan class="bold underline fa7">163</tspan><tspan>    || </tspan><tspan class="fa2">联通</tspan><tspan>  </tspan><tspan class="bold underline fa7">Arelion</tspan><tspan class="fa2">-&gt;</tspan><tspan class="bold underline fa7">4837</tspan><tspan>   || </tspan><tspan class="fa2">移动</tspan><tspan>   </tspan><tspan class="bold underline fa7">Level3</tspan><tspan class="fa2">-&gt;</tspan><tspan class="bold underline fa7">CMI</tspan></text>
+<text x="0ch" y="42.5em"><tspan></tspan><tspan class="fa6">广州UDP：</tspan><tspan class="fa2">电信 </tspan><tspan> </tspan><tspan class="bold underline fa7">Arelion</tspan><tspan class="fa2">-&gt;</tspan><tspan class="bold underline fa7">163</tspan><tspan>    || </tspan><tspan class="fa2">联通</tspan><tspan>  </tspan><tspan class="bold underline fa7">Arelion</tspan><tspan class="fa2">-&gt;</tspan><tspan class="bold underline fa7">4837</tspan><tspan>   || </tspan><tspan class="fa2">移动</tspan><tspan>   </tspan><tspan class="bold underline fa7">Level3</tspan><tspan class="fa2">-&gt;</tspan><tspan class="bold underline fa7">CMI</tspan></text>
+<text x="0ch" y="43.5em"><tspan>六、国内测速   </tspan><tspan class="italic underline">发送</tspan><tspan>  </tspan><tspan class="italic">延迟    </tspan><tspan class="italic underline">接收</tspan><tspan>  </tspan><tspan class="italic">延迟</tspan><tspan>||单位：</tspan><tspan class="underline">Mbps</tspan><tspan class="italic"> ms  </tspan><tspan class="italic underline">发送</tspan><tspan>  </tspan><tspan class="italic">延迟    </tspan><tspan class="italic underline">接收</tspan><tspan>  </tspan><tspan class="italic">延迟</tspan></text>
+<text x="0ch" y="44.5em"><tspan></tspan><tspan class="fa6">苏州电信     </tspan><tspan class="fa3">   </tspan><tspan class="underline fa3">180</tspan><tspan class="fa1">   362</tspan><tspan>  </tspan><tspan class="fa2">   </tspan><tspan class="underline fa2">933</tspan><tspan class="fa1">   329</tspan><tspan>||</tspan><tspan class="fa6">杭州电信     </tspan><tspan class="fa1">     </tspan><tspan class="underline fa1">0</tspan><tspan class="fa1">   378</tspan><tspan>  </tspan><tspan class="fa2">  </tspan><tspan class="underline fa2">1266</tspan><tspan class="fa1">   594</tspan></text>
+<text x="0ch" y="45.5em"><tspan></tspan><tspan class="fa6">上海联通     </tspan><tspan class="fa1">     ERROR  </tspan><tspan>  </tspan><tspan class="fa1">     ERROR  </tspan><tspan>||</tspan><tspan class="fa6">香港联通     </tspan><tspan class="fa1">     ERROR  </tspan><tspan>  </tspan><tspan class="fa1">     ERROR  </tspan></text>
+<text x="0ch" y="46.5em"><tspan></tspan><tspan class="fa6">苏州移动     </tspan><tspan class="fa1">     ERROR  </tspan><tspan>  </tspan><tspan class="fa1">     ERROR  </tspan><tspan>||</tspan><tspan class="fa6">深圳移动     </tspan><tspan class="fa1">     ERROR  </tspan><tspan>  </tspan><tspan class="fa1">     ERROR  </tspan></text>
+<text x="0ch" y="47.5em"><tspan>七、国际互连   </tspan><tspan class="italic">延迟 </tspan><tspan class="italic underline">发送</tspan><tspan> </tspan><tspan class="italic">重传 </tspan><tspan class="italic underline">接收</tspan><tspan> </tspan><tspan class="italic">重传</tspan><tspan>||单位：ms </tspan><tspan class="underline">Mbps</tspan><tspan class="italic">  延迟 </tspan><tspan class="italic underline">发送</tspan><tspan> </tspan><tspan class="italic">重传 </tspan><tspan class="italic underline">接收</tspan><tspan> </tspan><tspan class="italic">重传</tspan></text>
+<text x="0ch" y="48.5em"><tspan></tspan><tspan class="fa6">香港      </tspan><tspan class="fa3">⣶⣶⣶⣶⣶⣶</tspan><tspan class="bold fa3">200</tspan><tspan class="fa3">   </tspan><tspan class="underline fa3">106</tspan><tspan class="fa2">   0</tspan><tspan class="fa3">    </tspan><tspan class="underline fa3">91</tspan><tspan class="fa3">  15</tspan><tspan>||</tspan><tspan class="fa6">东京      </tspan><tspan class="fa1">⣿⣿⣿⣿⣿⣿</tspan><tspan class="bold fa1">254</tspan><tspan class="fa3">    </tspan><tspan class="underline fa3">50</tspan><tspan class="fa2">   0</tspan><tspan class="fa3">    </tspan><tspan class="underline fa3">79</tspan><tspan class="fa3">  18</tspan></text>
+<text x="0ch" y="49.5em"><tspan></tspan><tspan class="fa6">新加坡    </tspan><tspan class="fa1">⣾⣿⣷⣿⣿⣿</tspan><tspan class="bold fa1">241</tspan><tspan class="fa3">    </tspan><tspan class="underline fa3">82</tspan><tspan class="fa2">   0</tspan><tspan class="fa3">    </tspan><tspan class="underline fa3">95</tspan><tspan class="fa3">   3</tspan><tspan>||</tspan><tspan class="fa6">悉尼      </tspan><tspan class="fa1">⣿⣿⣿⣿⣿⣿</tspan><tspan class="bold fa1">284</tspan><tspan class="fa1">    </tspan><tspan class="underline fa1">40</tspan><tspan class="fa1"> 910     </tspan><tspan class="underline fa1">4</tspan><tspan class="fa2">   0</tspan></text>
+<text x="0ch" y="50.5em"><tspan></tspan><tspan class="fa6">洛杉矶    </tspan><tspan class="fa2">⣤⣤⣤⣤⣤⣤</tspan><tspan class="bold fa2">132</tspan><tspan class="fa3">   </tspan><tspan class="underline fa3">119</tspan><tspan class="fa1"> 476</tspan><tspan class="fa2">   </tspan><tspan class="underline fa2">200</tspan><tspan class="fa2">   0</tspan><tspan>||</tspan><tspan class="fa6">纽约      </tspan><tspan class="fa2">⣀⣀⣀⣠⣀⣀</tspan><tspan class="bold fa2"> 77</tspan><tspan class="fa2">   </tspan><tspan class="underline fa2">291</tspan><tspan class="fa2">   0   </tspan><tspan class="underline fa2">297</tspan><tspan class="fa1"> 813</tspan></text>
+<text x="0ch" y="51.5em"><tspan></tspan><tspan class="fa6">法兰克福  </tspan><tspan class="fa2">⣀⣀⣀⣀⣀</tspan><tspan class="fa1">⣸</tspan><tspan class="bold fa2"> 70</tspan><tspan class="fa2">   </tspan><tspan class="underline fa2">940</tspan><tspan class="fa1"> 103</tspan><tspan class="fa2">   </tspan><tspan class="underline fa2">566</tspan><tspan class="fa1"> 626</tspan><tspan>||</tspan><tspan class="fa6">伦敦      </tspan><tspan class="fa2">⣀⣀⣀⣀⣀⣀</tspan><tspan class="bold fa2"> 13</tspan><tspan class="fa2">  </tspan><tspan class="underline fa2">1877</tspan><tspan class="fa2">   0  </tspan><tspan class="underline fa2">1267</tspan><tspan class="fa1"> 334</tspan></text>
+<text x="0ch" y="52.5em"><tspan></tspan><tspan class="fa6">阿姆斯特丹</tspan><tspan class="fa2">⣀⣀⣀⣀⣀⣀</tspan><tspan class="bold fa2"> 18</tspan><tspan class="fa2">  </tspan><tspan class="underline fa2">1539</tspan><tspan class="fa3">   1</tspan><tspan class="fa2">  </tspan><tspan class="underline fa2">1580</tspan><tspan class="fa1"> 214</tspan><tspan>||</tspan><tspan class="fa6">圣保罗    </tspan><tspan class="fa3">⣶⣶</tspan><tspan class="fa1">⡆</tspan><tspan class="fa3">⣶⣶⣶</tspan><tspan class="bold fa1">178</tspan><tspan class="fa3">   </tspan><tspan class="underline fa3">121</tspan><tspan class="fa2">   0</tspan><tspan class="fa1">     </tspan><tspan class="underline fa1">0</tspan><tspan class="fa3">  16</tspan></text>
+<text x="0ch" y="53.5em"><tspan>================================================================================</tspan></text>
+<text x="0ch" y="54.5em"><tspan></tspan><tspan class="italic">今日网络检测量：1222；总检测量：403341。感谢使用xy系列脚本！ </tspan></text>
+</svg>
