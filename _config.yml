@@ -1,0 +1,4 @@
+exclude:
+  - README.md
+  - purge.js
+  - .imgbotconfig
